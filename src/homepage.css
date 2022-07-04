@@ -1,0 +1,23 @@
+.siteTitle {
+    position: relative;
+    left: -35%;
+    top: -20%;
+}
+
+.userName {
+    position: relative;
+    width: 200px;
+    top: -150px;
+    left: 75%;
+}
+
+.contentConsole {
+    position: relative;
+    top: 100px;
+}
+
+.wormie {
+    position: relative;
+    height: 100px;
+    top: 10%;
+}
