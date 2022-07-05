@@ -1,4 +1,4 @@
-## BookWorms ~
+ ## BookWorms ~
 A site to rate and share reviews on books. It's also a platform to find fellow bookworms to build book clubs with.
 
 ## User Profile
@@ -8,7 +8,8 @@ Read Books:
 Bookshelf:
 - list of favorite books stored with there covers on a "shelf". 
 BookClubs:
--list of groups of bookworms you are a part of.
+-list of groups of bookworms you are a part of.'
+
 
 ## Catalog List
 Books other users have read:
